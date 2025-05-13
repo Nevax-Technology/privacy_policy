@@ -53,7 +53,7 @@ _ Interactions with the App's features (e.g., which restaurant details are viewe
 _ Aggregated and anonymized location information (e.g., city-level data for popular search areas).
 _ Device type, operating system version.
 _ Network information (via `ACCESS_NETWORK_STATE` to check connectivity).
-_ Anonymized device identifiers for analytics aggregation purposes only (e.g., advertising ID if used and resettable by user, or a randomly generated app instance ID). _[Be very specific here and consult legal counsel on what identifiers are truly anonymous under relevant laws.]\* \* The purpose of collecting this anonymous data is solely for internal analytics to understand how our App is used, to improve its functionality, and to enhance user experience.
+\_ Anonymized device identifiers for analytics aggregation purposes only (e.g., advertising ID if used and resettable by user, or a randomly generated app instance ID). \* \* The purpose of collecting this anonymous data is solely for internal analytics to understand how our App is used, to improve its functionality, and to enhance user experience.
 
 c. **Permissions Requested:**
 _ `android.permission.INTERNET`: Allows the App to connect to the internet to fetch restaurant listings, map data, and other necessary information.
@@ -70,7 +70,8 @@ _ `android.permission.ACCESS_COARSE_LOCATION`: Allows the App to access your app
 **3. Sharing Your Information**
 We do not sell, trade, rent, or otherwise share your personal information with third parties for their marketing purposes.
 
-- **Anonymous Aggregated Data:** We may share aggregated, anonymized demographic and usage information with third-party analytics providers for the sole purpose of helping us understand App usage and improve our services. This data will not contain any information that can identify you personally. _[Specify if you use any third-party analytics services, e.g., Google Analytics for Firebase, and link to their privacy policies.]_
+- **Anonymous Aggregated Data:** We may share aggregated, anonymized demographic and usage information with third-party analytics providers for the sole purpose of helping us understand App usage and improve our services. This data will not contain any information that can identify you personally.
+
 - **Legal Requirements:** We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, protect and defend our rights or property, or in urgent circumstances to protect the personal safety of users of the App or the public.
 
 **4. Data Storage, Security, and International Transfers**
