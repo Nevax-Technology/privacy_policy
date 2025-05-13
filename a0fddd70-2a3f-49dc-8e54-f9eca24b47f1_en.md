@@ -13,22 +13,22 @@ The App does not require user registration or login in free version
 **3. License to Use the App**
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial purposes, subject to these Terms.
 
-**5. Intellectual Property**
+**4. Intellectual Property**
 All rights, title, and interest in and to the App, including its content (excluding third-party restaurant data), features, and functionality, are and will remain the exclusive property of NexRaven Innovations and its licensors.
 
-**6. Disclaimers**
+**5. Disclaimers**
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE ERROR-FREE, UNINTERRUPTED, SECURE, OR THAT DEFECTS WILL BE CORRECTED. RESTAURANT INFORMATION IS PROVIDED BY THIRD PARTIES OR PUBLIC SOURCES AND WE DO NOT GUARANTEE ITS ACCURACY, COMPLETENESS, OR TIMELINESS.
 
-**7. Limitation of Liability**
+**6. Limitation of Liability**
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL NEXRAVEN INNOVATIONS, ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE APP.
 
-**8. Changes to Terms**
+**7. Changes to Terms**
 We reserve the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms within the App or on our website. Your continued use of the App after such changes constitutes your acceptance of the new Terms.
 
-**9. Governing Law**
+**8. Governing Law**
 These Terms shall be governed by and construed in accordance with the laws, without regard to its conflict of law provisions.
 
-**10. Contact Us**
+**9. Contact Us**
 If you have any questions about these Terms, please contact us at:
 contact@nexraven.net
 
@@ -88,10 +88,10 @@ We retain the anonymous analytical data for as long as necessary to fulfill the 
 - **Location Services:** You can control or disable access to your device's location information through your device settings or within the App if such functionality is provided.
 - **Analytics:** As the analytics data is anonymous and not tied to a user account, specific access or deletion requests for this data may not be feasible. However, you can typically reset advertising identifiers on your device, which may limit the linkage of future anonymous data.
 
-**8. Changes to This Privacy Policy**
+**7. Changes to This Privacy Policy**
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
 
-**9. Contact Us**
+**8. Contact Us**
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 NexRaven Innovations
 contact@nexraven.net
