@@ -1,45 +1,52 @@
-# Privacy Policy
+# Privacy Policy for My Footprint
 
-# Privacy Policy for “My Footprint” App
+**Last Updated: 2025-07-01**
 
 ## 1. Introduction
 
-Welcome to the “My Footprint” app! This privacy policy explains how we collect, use, and protect your personal information. By using our app, you agree to the terms outlined in this policy.
+Welcome to My Footprint! We are committed to protecting your privacy. This Privacy Policy explains how we handle your information. Our core privacy principle is simple: your personal data is stored on your device and is under your control.
 
-## 2. Information We Collect
+## 2. Information We Handle
 
-We collect the following types of information:
+We differentiate between the personal data you create and the anonymous data used for analytics and support.
 
-- **Location Data**:
-    - We record and store user locations when they start a trip in the app. This is because our app offers trip tracking and analysis of location data for the users' convenience.
-- **Log Data**:
-    - When you use our app, we collect data such device info, manufacturer, model, operating system version, and app configuration. This information helps us ensure proper app functionality and those information will be stored in local storage only.
+- **User-Generated Data (Stored Locally on Your Device)**
+  Your trip history and location data are created and stored exclusively on your local device. We do not have access to this information, and it is never uploaded to our servers. You have full control over this data.
 
-## 3. How We Use Your Information
+- **Anonymous Data for Analytics & Support**
+  To improve your experience, and only with your permission, we may collect a minimal amount of anonymous, non-personal data. This can include device model, operating system version, anonymized crash logs, and aggregated usage statistics (e.g., which features are used most often). This data is completely anonymous and cannot be used to identify you.
 
-We use your information for the following purposes:
+## 3. How We Use Information
 
-- **Service Improvement**:
-    - To provide and enhance our app features.
-- **Privacy and Security**:
-    - All location data is stored locally on your device and is never uploaded to external networks or publics.
-    - We do not share your data with third parties.
-- **Age Restriction**:
-    - Our app is intended for users aged 18 and older.
+- **To Provide App Features**: Your locally stored location data is used to power the app's core features, like trip tracking and analysis, for your personal use.
+- **To Improve the App**: When you provide consent, we analyze anonymous data to understand user trends, diagnose technical problems, and make data-driven decisions to enhance the app's performance and reliability.
+- **Your Privacy is Protected**: **We do not sell, share, or rent any information with third parties. As your personal data is stored locally, only you have access to it.**
 
-## 4. Location Permissions
+## 4. Your Consent for Data Collection
 
-- **ACCESS_COARSE_LOCATION** and **ACCESS_FINE_LOCATION**:
-    - We request these permissions to track and record trip locations accurately.
+Your privacy and control are our top priorities. We will only collect the anonymous data for analytics and support described above after you have given your explicit consent through a clear in-app prompt. You can change your consent preferences at any time in the app's settings. If you choose not to consent, you will still be able to use the core features of the app.
 
-## 7. In-App Ads
+## 5. Data Control and Retention
 
-- Our app displays Google ads within the app interface.
+You are in complete control of your data.
 
-## 9. Data Retention
+- **Data Deletion**: You can delete your trip and location history from within the app at any time.
+- **Uninstallation**: Uninstalling the My Footprint app will permanently remove all stored application data from your device.
 
-- The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. All the data are stored in local, you can delete anytime within the app or uninstall the app.
+## 6. Required Permissions
 
-## 10. Consent
+To provide trip-tracking functionality, the app will request the following permissions:
 
-By using the “My Footprint” app, you consent to the collection, use, storage, and sharing of your information as described in this privacy policy.
+- **ACCESS_COARSE_LOCATION** and **ACCESS_FINE_LOCATION**: These are required to accurately record the location data for your trips. This data is stored locally on your device.
+
+## 7. Advertising
+
+My Footprint is supported by ads and uses the Google Mobile Ads SDK to display them. This service may collect anonymous data to provide more relevant ads. For more information on how Google handles data, please refer to Google's own privacy policy.
+
+## 8. Age Restriction
+
+This application is not intended for use by individuals under the age of 18.
+
+## 9. Agreement to This Policy
+
+By using the My Footprint app, you agree to the terms outlined in this Privacy Policy. Your use of the app constitutes your acceptance of these terms.
