@@ -1,4 +1,3 @@
-<![CDATA[
 # Terms of Use
 
 **Effective Date:** April 28, 2026  
@@ -244,4 +243,3 @@ These Terms of Use, together with our Privacy Policy, constitute the entire agre
 If you have any questions about these Terms of Use, please contact us:
 
 📧 **contact@nexraven.net**
-]]>
