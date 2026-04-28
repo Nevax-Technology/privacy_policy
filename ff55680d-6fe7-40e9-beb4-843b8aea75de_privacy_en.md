@@ -1,4 +1,3 @@
-<![CDATA[
 # Privacy Policy
 
 **Effective Date:** April 28, 2026  
@@ -60,7 +59,7 @@ The App integrates third-party services that operate independently and may colle
   - **App-Open Ads:** Shown when you launch or return to the App (with at least 15 minutes between showings).
   - **Interstitial Ads:** Shown after certain actions, such as creating a goal or adding a deposit.
   - **About-Page Banner:** A banner ad displayed on the About screen.
-  
+
   Google AdMob may collect device identifiers and usage data to serve ads. Ads are only loaded and displayed when you have granted consent (or are in a region where consent is not required). Ads are also suppressed when your device is offline. You can manage your preferences at any time through the App's **Legal & Privacy** settings.
 
 - **Analytics (Firebase Analytics):** We use Firebase Analytics to understand general App usage patterns, including crash reports and performance data. This helps us improve the App's stability and reliability. Analytics events only contain anonymised metadata (such as event type, priority level, or badge name) and **never** include your goal titles, savings amounts, deposit values, profile information, or any other personal content. Analytics data collection is only active when you have granted consent (or are in a region where consent is not required), and is suppressed when your device is offline.
@@ -181,4 +180,3 @@ We encourage you to review this Privacy Policy periodically to stay informed abo
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 📧 **contact@nexraven.net**
-]]>
