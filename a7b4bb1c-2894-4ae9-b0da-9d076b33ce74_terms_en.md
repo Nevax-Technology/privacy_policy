@@ -167,12 +167,10 @@ Sections 5, 6, 9, 10, 11, and 13 of these terms shall survive any termination.
 
 ## 13. Governing Law & Dispute Resolution
 
-These Terms of Use shall be governed by and construed in accordance with the laws of
-**Hong Kong SAR**, without regard to its conflict of law provisions.
-
-Any disputes arising from these terms shall first be attempted to be resolved through informal
-negotiation. If the dispute cannot be resolved within 30 days, it shall be submitted to the
-exclusive jurisdiction of the courts of Hong Kong SAR.
+These Terms of Use shall be governed by the laws of the country or region where you reside.
+If any dispute arises, we encourage you to first contact us to resolve the matter informally.
+If the dispute cannot be resolved, it shall be handled in accordance with the applicable laws
+of your jurisdiction.
 
 ---
 
