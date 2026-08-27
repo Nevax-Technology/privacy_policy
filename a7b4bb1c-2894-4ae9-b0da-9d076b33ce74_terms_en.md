@@ -1,7 +1,7 @@
 # Terms of Use — Resize Ease
 
 **Effective Date:** May 4, 2026
-**Developer:** NEXRAVEN INNOVATION
+**Developer:** NEXRAVEN INNOVATIONS
 **Contact:** contact@nexraven.net
 **App:** Resize Ease
 
@@ -12,7 +12,7 @@
 By downloading, installing, or using Resize Ease ("the App"), you agree to be bound by these
 Terms of Use. If you do not agree with any part of these terms, please do not use the App.
 
-These terms form a legally binding agreement between you ("the User") and NEXRAVEN INNOVATION
+These terms form a legally binding agreement between you ("the User") and NEXRAVEN INNOVATIONS
 ("the Developer").
 
 ---
@@ -75,7 +75,7 @@ necessary rights to modify and use those images.
 ## 6. Intellectual Property
 
 The App, including its name, logo, design, code, and all related intellectual property, is owned
-by NEXRAVEN INNOVATION. These terms do not grant you any ownership rights to the App itself.
+by NEXRAVEN INNOVATIONS. These terms do not grant you any ownership rights to the App itself.
 
 Images you process using the App remain your property. The Developer does not claim any ownership
 over your images.
@@ -123,7 +123,7 @@ You use the App at your own discretion and risk.
 
 ## 10. Limitation of Liability
 
-To the maximum extent permitted by applicable law, NEXRAVEN INNOVATION shall not be liable for
+To the maximum extent permitted by applicable law, NEXRAVEN INNOVATIONS shall not be liable for
 any indirect, incidental, special, consequential, or punitive damages arising from or related to
 your use of the App, including but not limited to:
 
@@ -139,7 +139,7 @@ In no event shall the Developer's total liability exceed the amount you paid to 
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless NEXRAVEN INNOVATION from any claims, damages, losses,
+You agree to indemnify and hold harmless NEXRAVEN INNOVATIONS from any claims, damages, losses,
 liabilities, costs, or expenses (including legal fees) arising from:
 
 - Your use of the App
@@ -191,7 +191,7 @@ App and uninstall it.
 
 If you have any questions, concerns, or requests regarding these Terms of Use, please contact us:
 
-**NEXRAVEN INNOVATION**
+**NEXRAVEN INNOVATIONS**
 Email: **contact@nexraven.net**
 
 ---

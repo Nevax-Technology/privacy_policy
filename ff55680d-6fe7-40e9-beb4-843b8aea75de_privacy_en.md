@@ -11,7 +11,7 @@ Thank you for using **Money Mind** ("the App"). This Privacy Policy explains wha
 
 ## 1. Who We Are
 
-Money Mind is developed and operated by **NEXRAVEN INNOVATION** ("we", "us", or "our").  
+Money Mind is developed and operated by **NEXRAVEN INNOVATIONS** ("we", "us", or "our").  
 If you have any questions about this Privacy Policy, you can contact us at:  
 📧 **contact@nexraven.net**
 

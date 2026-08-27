@@ -11,7 +11,7 @@ Please read these Terms of Use ("Terms") carefully before using **Money Mind** (
 
 ## 1. Acceptance of Terms
 
-By accessing or using Money Mind, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use and our [Privacy Policy]. These Terms constitute a legally binding agreement between you and **NEXRAVEN INNOVATION** ("we", "us", or "our").
+By accessing or using Money Mind, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use and our [Privacy Policy]. These Terms constitute a legally binding agreement between you and **NEXRAVEN INNOVATIONS** ("we", "us", or "our").
 
 ---
 
@@ -76,7 +76,7 @@ You agree **not** to:
 
 ### 5.1 Our Rights
 
-The App, including its original content, features, functionality, design, and user interface, is owned by **NEXRAVEN INNOVATION** and is protected by international copyright, trademark, and other intellectual property laws.
+The App, including its original content, features, functionality, design, and user interface, is owned by **NEXRAVEN INNOVATIONS** and is protected by international copyright, trademark, and other intellectual property laws.
 
 ### 5.2 Limited License
 
@@ -169,7 +169,7 @@ To the maximum extent permitted by applicable law:
 
 ## 12. Indemnification
 
-You agree to indemnify, defend, and hold harmless **NEXRAVEN INNOVATION** and its affiliates, officers, and agents from and against any claims, liabilities, damages, losses, or expenses arising from:
+You agree to indemnify, defend, and hold harmless **NEXRAVEN INNOVATIONS** and its affiliates, officers, and agents from and against any claims, liabilities, damages, losses, or expenses arising from:
 
 - Your use of the App in violation of these Terms.
 - Your violation of any applicable law or regulation.
@@ -220,7 +220,7 @@ The following provisions shall survive termination: Sections 5 (Intellectual Pro
 
 ## 16. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which **NEXRAVEN INNOVATION** operates, without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which **NEXRAVEN INNOVATIONS** operates, without regard to its conflict of law provisions.
 
 Any disputes arising from these Terms or your use of the App shall be resolved through good-faith negotiation. If resolution cannot be reached, disputes shall be submitted to the exclusive jurisdiction of the courts in the applicable jurisdiction.
 
@@ -234,7 +234,7 @@ If any provision of these Terms is held to be unenforceable or invalid, that pro
 
 ## 18. Entire Agreement
 
-These Terms of Use, together with our Privacy Policy, constitute the entire agreement between you and **NEXRAVEN INNOVATION** regarding your use of the App and supersede any prior agreements or understandings.
+These Terms of Use, together with our Privacy Policy, constitute the entire agreement between you and **NEXRAVEN INNOVATIONS** regarding your use of the App and supersede any prior agreements or understandings.
 
 ---
 

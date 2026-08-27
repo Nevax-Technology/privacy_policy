@@ -1,7 +1,7 @@
 # Terms of Use — Aura PDF
 
 **Last Updated:** May 5, 2026
-**Developer:** NEXRAVEN INNOVATION
+**Developer:** NEXRAVEN INNOVATIONS
 **Contact:** contact@nexraven.net
 
 ---
@@ -10,7 +10,7 @@
 
 By downloading, installing, or using Aura PDF ("the App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not install or use the App.
 
-These Terms constitute a legally binding agreement between you ("User" or "You") and NEXRAVEN INNOVATION ("Developer", "We", "Us", or "Our").
+These Terms constitute a legally binding agreement between you ("User" or "You") and NEXRAVEN INNOVATIONS ("Developer", "We", "Us", or "Our").
 
 ---
 
@@ -31,7 +31,7 @@ Subject to your compliance with these Terms, we grant you a limited, non-exclusi
 - Download and install the App on devices you own or control.
 - Use the App for its intended purpose — converting, merging, and processing PDF and image files.
 
-All rights not expressly granted to you are reserved by NEXRAVEN INNOVATION.
+All rights not expressly granted to you are reserved by NEXRAVEN INNOVATIONS.
 
 ---
 
@@ -50,9 +50,9 @@ You agree not to:
 
 ## 5. Intellectual Property
 
-The App, including but not limited to its code, design, layout, graphics, trademarks (including "Aura PDF" and the Aura logo), and user interface, is owned by NEXRAVEN INNOVATION and is protected by copyright, trademark, and other intellectual property laws.
+The App, including but not limited to its code, design, layout, graphics, trademarks (including "Aura PDF" and the Aura logo), and user interface, is owned by NEXRAVEN INNOVATIONS and is protected by copyright, trademark, and other intellectual property laws.
 
-The Aura name, logo, and related branding are trademarks of NEXRAVEN INNOVATION. You may not use these marks without our prior written permission.
+The Aura name, logo, and related branding are trademarks of NEXRAVEN INNOVATIONS. You may not use these marks without our prior written permission.
 
 ---
 
@@ -98,7 +98,7 @@ These services operate under their own terms and privacy policies. Google's priv
 
 ## 9. User Feedback
 
-If you voluntarily submit feedback via **Settings → About → Rate Us**, you grant NEXRAVEN INNOVATION a perpetual, irrevocable, worldwide, royalty-free license to use, store, and analyse the submitted content for product improvement purposes. Feedback is entirely voluntary and never collected without explicit user action.
+If you voluntarily submit feedback via **Settings → About → Rate Us**, you grant NEXRAVEN INNOVATIONS a perpetual, irrevocable, worldwide, royalty-free license to use, store, and analyse the submitted content for product improvement purposes. Feedback is entirely voluntary and never collected without explicit user action.
 
 ---
 
@@ -118,13 +118,13 @@ THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, E
 - WARRANTIES THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS.
 - WARRANTIES REGARDING THE ACCURACY, RELIABILITY, OR QUALITY OF ANY OUTPUT PRODUCED BY THE APP.
 
-You use the App at your own discretion and risk. NEXRAVEN INNOVATION makes no guarantee that the App will meet your requirements or that any defects will be corrected.
+You use the App at your own discretion and risk. NEXRAVEN INNOVATIONS makes no guarantee that the App will meet your requirements or that any defects will be corrected.
 
 ---
 
 ## 12. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEXRAVEN INNOVATION SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE APP, INCLUDING BUT NOT LIMITED TO:
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEXRAVEN INNOVATIONS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE APP, INCLUDING BUT NOT LIMITED TO:
 
 - LOSS OF DATA, DOCUMENTS, OR FILES
 - LOSS OF PROFITS OR BUSINESS OPPORTUNITIES
@@ -139,7 +139,7 @@ Some jurisdictions do not allow the exclusion or limitation of certain warrantie
 
 ## 13. Indemnification
 
-You agree to indemnify, defend, and hold harmless NEXRAVEN INNOVATION and its officers, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising out of or related to:
+You agree to indemnify, defend, and hold harmless NEXRAVEN INNOVATIONS and its officers, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising out of or related to:
 
 - Your use of the App in violation of these Terms.
 - Your violation of any applicable law or regulation.
@@ -176,7 +176,7 @@ If any provision of these Terms is held to be invalid or unenforceable by a cour
 
 ## 17. Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and NEXRAVEN INNOVATION regarding your use of the App and supersede any prior agreements or understandings, whether written or oral.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and NEXRAVEN INNOVATIONS regarding your use of the App and supersede any prior agreements or understandings, whether written or oral.
 
 ---
 
@@ -184,9 +184,9 @@ These Terms, together with the Privacy Policy, constitute the entire agreement b
 
 For questions, concerns, or requests regarding these Terms:
 
-**NEXRAVEN INNOVATION**
+**NEXRAVEN INNOVATIONS**
 📧 contact@nexraven.net
 
 ---
 
-_Aura PDF is developed and maintained by NEXRAVEN INNOVATION._
+_Aura PDF is developed and maintained by NEXRAVEN INNOVATIONS._

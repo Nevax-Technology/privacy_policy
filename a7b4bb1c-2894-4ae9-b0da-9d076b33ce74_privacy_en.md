@@ -1,7 +1,7 @@
 # Privacy Policy — Resize Ease
 
 **Effective Date:** May 4, 2026
-**Developer:** NEXRAVEN INNOVATION
+**Developer:** NEXRAVEN INNOVATIONS
 **Contact:** contact@nexraven.net
 **App:** Resize Ease
 
@@ -17,7 +17,7 @@ is used, and what choices you have.
 uploaded to any server, never stored in the cloud, and never shared with any third party.** No
 account or registration is required to use this app.
 
-This Privacy Policy applies to all users of the Resize Ease app published by NEXRAVEN INNOVATION.
+This Privacy Policy applies to all users of the Resize Ease app published by NEXRAVEN INNOVATIONS.
 
 ---
 
@@ -127,7 +127,7 @@ We share data only in the following circumstances:
   and voluntary feedback submissions are transmitted to Google's servers as described in §2.4–§2.7.
 - **Legal obligation:** We may disclose data if required by law, court order, or government
   authority.
-- **Business transfer:** If NEXRAVEN INNOVATION is involved in a merger or acquisition, user data
+- **Business transfer:** If NEXRAVEN INNOVATIONS is involved in a merger or acquisition, user data
   may be transferred as part of that transaction. You will be notified of any such change.
 
 We do **not** sell your personal data. We do **not** share your personal data for purposes beyond
@@ -299,7 +299,7 @@ revised terms.
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data,
 please contact us:
 
-**NEXRAVEN INNOVATION**
+**NEXRAVEN INNOVATIONS**
 Email: **contact@nexraven.net**
 
 We aim to respond to all privacy-related enquiries within **30 days**.
