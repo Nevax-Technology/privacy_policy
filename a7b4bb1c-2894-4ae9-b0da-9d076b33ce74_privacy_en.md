@@ -3,14 +3,13 @@
 **Effective Date:** May 4, 2026
 **Developer:** NEXRAVEN INNOVATION
 **Contact:** contact@nexraven.net
-**App:** Resize Ease (Android)
-**Play Store:** https://play.google.com/store/apps/details?id=com.nexraven.resize_ease.prod
+**App:** Resize Ease
 
 ---
 
 ## 1. Introduction
 
-Resize Ease is a free image resizing, cropping, and conversion utility for Android. We are
+Resize Ease is a free image resizing, cropping, and conversion utility for mobile devices. We are
 committed to protecting your privacy. This Privacy Policy explains what data is collected, how it
 is used, and what choices you have.
 
@@ -18,8 +17,7 @@ is used, and what choices you have.
 uploaded to any server, never stored in the cloud, and never shared with any third party.** No
 account or registration is required to use this app.
 
-This Privacy Policy applies to all users of the Resize Ease app published on the Google Play Store
-by NEXRAVEN INNOVATION.
+This Privacy Policy applies to all users of the Resize Ease app published by NEXRAVEN INNOVATION.
 
 ---
 
@@ -53,11 +51,11 @@ The app requests only the following device permissions:
 
 | Permission      | Purpose                                                                          |
 | --------------- | -------------------------------------------------------------------------------- |
-| Storage (read)  | Selecting source images via the system file picker (older Android versions only) |
-| Storage (write) | Saving output files to your chosen folder (older Android versions only)          |
+| Storage (read)  | Selecting source images via the system file picker                                |
+| Storage (write) | Saving output files to your chosen folder                                         |
 | Internet access | Loading ads and sending analytics / crash reports (only when consent is granted) |
 
-On **Android 10 and above**, saving files uses the standard Android folder-picker — no broad
+On newer operating system versions, saving files uses the standard system folder-picker — no broad
 storage permission is needed or requested on these versions.
 
 **The app does not request access to your camera, microphone, contacts, location, or any other
@@ -264,10 +262,10 @@ For residents of California and other US states with applicable privacy laws:
 
 ---
 
-## 13. Google Play Data Safety Alignment
+## 13. App Store Data Safety Alignment
 
 The information in this Privacy Policy is consistent with the Data Safety section declared in
-the Google Play Store listing for Resize Ease:
+the app store listings for Resize Ease:
 
 | Category                         | Collected?                       | Shared with Third Parties? | User Can Delete?                    |
 | -------------------------------- | -------------------------------- | -------------------------- | ----------------------------------- |
@@ -289,7 +287,7 @@ We may update this Privacy Policy from time to time to reflect changes in the ap
 laws, or third-party service terms. When we make material changes:
 
 - The **Effective Date** at the top of this document will be updated.
-- Significant changes will be communicated via the app's Play Store listing or an in-app notice.
+- Significant changes will be communicated via the app's store listing or an in-app notice.
 
 Continued use of the app after an updated policy takes effect constitutes your acceptance of the
 revised terms.
@@ -303,11 +301,9 @@ please contact us:
 
 **NEXRAVEN INNOVATION**
 Email: **contact@nexraven.net**
-Play Store: https://play.google.com/store/apps/details?id=com.nexraven.resize_ease.prod
 
 We aim to respond to all privacy-related enquiries within **30 days**.
 
 ---
 
-_This Privacy Policy applies to the Android version of Resize Ease distributed via the Google
-Play Store._
+_This Privacy Policy applies to all versions of Resize Ease._

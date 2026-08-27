@@ -3,8 +3,7 @@
 **Effective Date:** May 4, 2026
 **Developer:** NEXRAVEN INNOVATION
 **Contact:** contact@nexraven.net
-**App:** Resize Ease (Android)
-**Play Store:** https://play.google.com/store/apps/details?id=com.nexraven.resize_ease.prod
+**App:** Resize Ease
 
 ---
 
@@ -20,7 +19,7 @@ These terms form a legally binding agreement between you ("the User") and NEXRAV
 
 ## 2. Description of Service
 
-Resize Ease is a free image resizing, cropping, and conversion tool for Android devices. The App
+Resize Ease is a free image resizing, cropping, and conversion tool for mobile devices. The App
 allows you to:
 
 - Resize images to specific dimensions or target file sizes
@@ -47,7 +46,7 @@ By using the App, you confirm that:
 
 The Developer grants you a limited, non-exclusive, non-transferable, revocable license to:
 
-- Download and install the App on your Android device(s)
+- Download and install the App on your device(s)
 - Use the App for personal, non-commercial purposes
 
 This license does **not** allow you to:
@@ -180,7 +179,7 @@ We may update these Terms of Use from time to time to reflect changes in the App
 laws, or business practices. When we make material changes:
 
 - The **Effective Date** at the top of this document will be updated
-- Significant changes will be communicated via the App or the Play Store listing
+- Significant changes will be communicated via the App or the app store listing
 
 Continued use of the App after an updated version of these terms takes effect constitutes your
 acceptance of the revised terms. If you do not agree with the changes, you should stop using the
@@ -194,9 +193,7 @@ If you have any questions, concerns, or requests regarding these Terms of Use, p
 
 **NEXRAVEN INNOVATION**
 Email: **contact@nexraven.net**
-Play Store: https://play.google.com/store/apps/details?id=com.nexraven.resize_ease.prod
 
 ---
 
-_These Terms of Use apply to the Android version of Resize Ease distributed via the Google
-Play Store._
+_These Terms of Use apply to all versions of Resize Ease._
