@@ -20,7 +20,7 @@ Prism Percent is built with privacy first. Core features work completely offline
 | -------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
 | **App usage**        | Anonymous information about which features you use and when      | Only when online and you have given analytics permission                | Optional — your choice        |
 | **Crash reports**    | Anonymous error logs with no personal details                    | Only when an error occurs and you have given error reporting permission | Optional — your choice        |
-| **Advertising data** | Anonymous identifiers used by ad systems to show and measure ads | Only when online and you have given ad permission                       | Optional — your choice        |
+| **Advertising data** | Identifiers such as your advertising ID or device ID, used by ad systems for tracking purposes to show and measure relevant, personalised ads | Only when online and you have given ad permission                       | Optional — your choice        |
 | **Feedback**         | Any comments you choose to send through the in-app feedback form | Only when you decide to submit feedback                                 | Optional — entirely up to you |
 
 **What we never collect:**

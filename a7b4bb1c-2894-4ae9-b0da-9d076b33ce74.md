@@ -80,8 +80,10 @@ included.
 ### 2.6 Advertising Data (Optional — Consent Required)
 
 The app displays ads via **Google AdMob**. When you interact with ads, Google AdMob may collect
-advertising identifiers and general device information to serve and measure ads. The extent of
-this collection depends on the consent choices you make in **Settings → Privacy**.
+advertising identifiers and general device information to serve and measure ads. This may include
+your device ID, which is collected for tracking purposes so that we can show you relevant,
+personalised ads. The extent of this collection depends on the consent choices you make in
+**Settings → Privacy**.
 
 All ad-related consent flags default to **off (denied)**. You may change them at any time via
 **Settings → Privacy**.

@@ -85,7 +85,7 @@ Aura PDF displays advertisements when the device is online.
 - **Interstitial ads** are shown after a successful file export/save action.
 - **When you are offline, all ads are completely suppressed** — no ad network calls are made.
 
-Advertising data collection is governed by the Google User Messaging Platform (UMP) consent framework. In regulated regions (e.g. the EEA), you will be presented with a consent form that controls how Google may collect and use data for advertising purposes. You can review and update these preferences at any time from **Settings → Data & Privacy → Privacy Consent**.
+Advertising data collection is governed by the Google User Messaging Platform (UMP) consent framework. In regulated regions (e.g. the EEA), you will be presented with a consent form that controls how Google may collect and use data for advertising purposes. When ads are shown, Google may collect your device ID (advertising ID) for tracking purposes so that we can show you relevant, personalised ads. You can review and update these preferences at any time from **Settings → Data & Privacy → Privacy Consent**.
 
 Google's privacy policy governs any data they collect: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
