@@ -1,6 +1,6 @@
 # Privacy Policy for Xoris Player
 
-**Effective Date:** October 14, 2026
+**Effective Date:** November 20, 2026
 
 ## 1. Overview
 
@@ -8,7 +8,9 @@ This Privacy Policy explains, in general terms, how Xoris Player handles informa
 
 Xoris Player is an offline-first music player. All core features — scanning your library, playing your WAV and FLAC files, playlists, likes, and preferences — work entirely on your device. Your music files and the information the app creates about them never leave your device. There are no accounts and no cloud sync. If you uninstall the app or clear its data, this information is permanently deleted.
 
-The app also contains optional online features, such as advertising, analytics, crash reporting, and feedback. These are described below.
+The app is free to use and supported by advertising. You can optionally buy an ad-free version called Pro — removing ads is the only thing Pro does, and every other feature works exactly the same in the free version.
+
+The app also contains optional online features, such as advertising, analytics, crash reporting, purchases, and feedback. These are described below.
 
 ## 2. Information We Handle
 
@@ -18,6 +20,7 @@ Xoris Player may handle information you choose to add or manage in the app, such
 - playlists, likes, and preferences you create in the app
 - feedback you choose to send, such as star ratings and an optional comment
 - limited information related to app use, service availability, store features, advertising, reviews, updates, or general app improvement when those parts of the app are used
+- limited purchase information when you buy the optional Pro version, such as whether your purchase is active and when it next renews — we never receive your payment card details
 
 Your music files themselves are only read on your device and are never uploaded or shared.
 
@@ -31,6 +34,7 @@ We use information only for reasonable app-related purposes, such as:
 - fixing crashes when you have opted in to crash reporting
 - responding to feedback you choose to send
 - supporting store-related, advertising, review, or update features when available
+- delivering the Pro version you purchased, by checking that your purchase is active
 
 ## 4. Optional Analytics and Crash Reporting
 
@@ -49,6 +53,8 @@ Xoris Player is free to use and supported by advertising provided by Google thro
 
 Ads are requested and displayed only when your consent choices allow it and when your device is online. No ads are requested while you are offline. Advertising does not involve access to your music files, playlists, or playback content.
 
+If you purchase the Pro version, ads are switched off completely: no ads are requested, loaded, or shown, and no advertising data is collected while Pro is active. If your purchase ends or is not renewed, the free ad-supported experience returns the next time you open the app.
+
 Where required, your advertising consent is managed through Google's consent dialog at first launch. You can review or change your choices at any time in Settings → Legal & Privacy under Manage Ad & Analytics Consent.
 
 ## 6. Google and Other Service Providers
@@ -56,6 +62,8 @@ Where required, your advertising consent is managed through Google's consent dia
 Xoris Player may use Google as a service provider for services connected to app distribution, store features, updates, reviews, advertising, consent management, optional analytics and crash reporting (Firebase), and related app operations.
 
 When you use those features, Google may process information under its own terms, privacy practices, and policies. We may also work with other service providers when needed to support the app experience, but only in connection with reasonable app-related purposes.
+
+Buying Pro is handled entirely by Google Play — we never see or store your payment card details, and prices and taxes are set by Google Play at checkout. To confirm that a Pro purchase is active, we use a service called RevenueCat. It receives only anonymous purchase details from your Google Play account, sent securely, and never receives your name, email address, or any content from your device. Purchase information is never used for advertising and is never sold. This processing happens only when you choose to buy or restore Pro and is separate from your ad and analytics consent choices.
 
 ## 7. Your Choices and Control
 
@@ -65,6 +73,7 @@ You can choose what information you make available to Xoris Player. You can also
 - analytics and crash reporting toggles are available in Settings → Legal & Privacy and apply immediately
 - advertising consent can be reviewed or changed at any time under Manage Ad & Analytics Consent
 - app-generated information, such as playlists and preferences, stays on your device and is permanently deleted if you uninstall the app or clear its data
+- your Pro purchase is managed through your Google Play account, where you can view, cancel, or restore it — the app also offers a Restore purchases option, and no separate app account exists
 
 If you choose not to grant certain permissions or not to use certain connected services, some features may be limited or may not work as expected.
 
@@ -75,6 +84,8 @@ Xoris Player is not directed at children under 13, and we do not knowingly colle
 Information stored on your device, such as playlists, likes, and preferences, remains there until you uninstall the app or clear its data, at which point it is permanently deleted.
 
 Feedback you choose to send is kept only for as long as reasonably needed for app improvement and support purposes, and it is not linked to your identity.
+
+Purchase information is kept by Google Play and RevenueCat under their own systems. You can delete it through your Google Play account controls and RevenueCat's data-deletion request page.
 
 We take reasonable steps to support a safe and reliable experience, but no app, device, or online service can guarantee absolute security. You are also responsible for keeping your device and your music library secure.
 
